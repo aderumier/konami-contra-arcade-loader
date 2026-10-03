@@ -1,0 +1,4 @@
+--target=i686-w64-windows-gnu
+-I/usr/include/wine/windows
+-I/usr/include/wine/msvcrt
+-ffreestanding
